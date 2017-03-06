@@ -1,0 +1,5 @@
+#+ summary: Songs by The Beatles
+#+ endpoint: http://dbpedia.org/sparql
+#+ method: GET
+#+ pagination: 100
+
